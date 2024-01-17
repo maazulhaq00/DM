@@ -1,0 +1,12 @@
+
+
+rishi template
+
+upload file -> activate template
+
+install plugin
+
+then goto rishi template -> install starter template -> choose portfolio site -> click import complete site -> check delete previously -> click import
+
+
+visit site -> goto customize

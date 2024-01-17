@@ -1,0 +1,63 @@
+1)simple product
+
+add simple product
+
+2) grouped product
+
+add one group product named USB drive
+
+now add simple products with different options 16gb 64gb 128gb etc
+
+click catalog visibility: hidden
+
+now goto grouped product linked product in grouped products search different option and add then update.
+
+3) virtual product
+
+this will add service as a product(not shipped ) for eg: One hour zoom consultancy
+
+simply add product and check virtual
+
+and in inventory check sold inventory
+
+4) downloadable product
+
+this will add downloadable product (books pdf or softwares etc)
+
+simply check virtual + downloadable
+
+5) Add Affiliate products
+
+select External/Affiliate Product
+
+in general add product url (affiliate url) add button text
+
+for open in new tab upload plugin
+
+6) Variable Products
+
+add product polo tshirt
+
+select variable product so 2 new tabs are shown attributes and variations
+
+add attribute -> create product attribute -> add
+name-> color value -> red | blue | white
+check use for variations
+
+add create product attribute -> add
+name-> size value -> M | L | X
+check use for variations
+
+create variations -> select create variation from all attribute -> go
+
+
+add plugin -> ti woo commerce wishlist
+
+add plugin -> leo product recommendation 
+global -> check -> active global setting
+recommendation options -> manual -> choose categories
+
+
+choose contact form plugin -> bit form
+choose contact form edit and save
+now send message and goto your contact form and click responses

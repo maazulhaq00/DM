@@ -1,0 +1,93 @@
+
+
+astra theme
+starter template
+goto starter template then select cosmetic template
+
+goto woocommerce plugin -> settings
+
+
+1) general
+Address line 1 -> enter your address
+city
+country
+postcode
+
+selling location -> sell to specific country -> pakistan
+
+shipping country -> select ship to all countries you sell to (it's best for customers)
+
+default customer location -> shop base address
+
+don't forget to check enable tax (enable krty hi upar tax ka option ajaega)
+check coupon
+
+change currency etc
+
+save changes
+
+2) Products
+
+we've 3 more tabs under product tab (general, inventory, downloadable products)
+i) general
+shop page -> select shop page or you can choose any other page you want
+
+add to cart behaviour -> there are 2 checkboxes 1) redirect which redirects directly to cart page 2) enable ajax which shows product successfully added to the same page so 2) option is best
+
+place holder image -> keep that default
+
+measurements -> weight unit and dimension unit.
+
+reviews -> enable reviews check all if you want add review option in your site reviews can only be left by verified owners is the review which is only be given by logged in customers admin cann't review any product
+
+product rating -> if you want to add star rating so check on enable star rating star rating should be required.not optional agr aap cha rahy k review jo kre usko lazmi hai k stars dy to check krdein.
+
+ii)inventory
+
+manage stock -> always check stock management
+hold stock -> agr kisi ny payment nhi krwai to order cancel hojaega
+
+notification -> enable low stock and out of stock notifications it'll send an email to the given email address
+
+iii) downloadable products 
+
+file method download ko default force download pe hi save krein.
+
+access restriction -> check downloads require login and check grant access to downloadable products after payment
+
+filename if you want unique filename on every customer product so check this.
+
+3) Tax
+
+scroll down and goto
+
+additional tax classes -> add men's item 10% women's item 15% save changes. so it'll display men's item 10% women's
+
+4)Shipping
+add shipping zone
+zone name -> pakistan
+zone region -> pakistan
+shipping methods -> add shipping method -> flat rate -> edit -> set cost -> 50 -> 50.00 * [qty]
+free shipping -> minimum order amount
+
+5) Payment
+
+select cash on delivery and direct bank account.
+
+6) Account setting
+Allow customers to place orders without an account -> check
+Login Allow customers to log into an existing account during checkout -> check
+Account creation Allow customers to create an account during checkout -> check
+
+Account erasure requests -> keep this default
+
+save changes
+7)Email 
+New order
+Cancelled order
+Failed order
+
+8) Advance
+Account endpoints
+http://localhost:82/wooc/my-account/orders/ -> ye jo order likha howa woh haai orders
+

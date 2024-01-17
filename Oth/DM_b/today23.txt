@@ -1,0 +1,9 @@
+domain age
+
+
+user-agent: *
+
+Disallow: /admin/
+
+Allow: /admin/bilal
+

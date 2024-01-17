@@ -1,0 +1,25 @@
+more than 11k themes
+more than 59k plugins
+
+TIME Magazine
+Vogue
+Angrybirds
+lugz
+
+
+delete pages and posts pages
+
+user profile setting
+
+goto users -> add new -> add username -> add email -> add password -> check email notification -> select role (editor)
+
+change password
+goto users -> profile
+
+change page title and tagline
+
+goto settings -> general
+
+change permalink
+
+goto settings -> permalink -> select post name

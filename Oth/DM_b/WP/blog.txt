@@ -1,0 +1,5 @@
+
+
+plugins are used to add extra features to your website
+
+install themes and plugin(classic editor)
