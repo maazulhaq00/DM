@@ -1,0 +1,25 @@
+Task 1
+
+1. Keyword Research: select a topic (seed keyword) and find out top long tail/ low compitetion keywords 
+according to your topics and prepare a list (using Google Keyword Planner, Answer the public)
+
+Task 2
+
+2. Onpage SEO: Open your eprojects and optimize the following
+
+	a - meta tags: keyword, description
+	b - update image names (donot name like 1.png, logo.png etc... use proper names)
+	c - alt tags to use keywords
+	d - ek page pa ek h1
+	e - keyword density : donot use a keyword to excessively
+	f - sementic tags are important <header> , <footer> , sitemap
+
+
+
+
+
+
+
+
+
+
